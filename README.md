@@ -25,11 +25,11 @@ FEMA disaster declaration data covering U.S. disaster events, including dates, l
 
 1 . Individual Assistance
 
-2. Public Assistance
+2 . Public Assistance
 
-3 .Hazard Mitigation
+3 . Hazard Mitigation
 
-4 .Emergency / Other Programs
+4 . Emergency / Other Programs
 
 ### Key Performance Indicators [KPIs]
 
