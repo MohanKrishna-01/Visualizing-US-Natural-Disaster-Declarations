@@ -13,3 +13,21 @@ Data Cleaning Steps [Power Query]
 6 . Verified data types to ensure dates, numeric flags, and text fields were correctly formatted.
 
 7 . Performed final validation to confirm there were no critical missing values and that the dataset was ready for visualization.
+
+Data Cleaning Steps[Python]
+
+1 . Imported required Python libraries (Pandas).
+
+2 . Loaded the FEMA Excel dataset into Jupyter Notebook.
+
+3 . Reviewed dataset structure, columns, and data types.
+
+4 . Identified and handled missing values.
+
+5 . Removed duplicate records to avoid redundancy.
+
+6. Converted date columns to proper datetime format.
+
+7 . Standardized categorical values for consistency.
+
+8 . Renamed columns for better readability.
