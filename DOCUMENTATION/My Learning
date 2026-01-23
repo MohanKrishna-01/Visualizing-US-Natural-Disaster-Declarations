@@ -1,65 +1,76 @@
-### Internship Documentation – Data Visualization
+Internship Documentation – Data Visualization
 
-####Platform: Infosys Springboard – Internship 6.0
-####Domain: Data Visualization
+Platform: Infosys Springboard – Internship 6.0
+Domain: Data Visualization
 
-####Project Title : Visualizing US Natural Disaster Declarations using FEMA Dataset
+* Project Title
 
-#####This repository documents my week-wise internship work based on the Input dataset and project guidelines PDF, focusing on data cleaning, EDA, and visualization using Power BI.
+Visualizing US Natural Disaster Declarations using FEMA Dataset
 
-####Week 1 – Dataset Import & Data Cleaning (Power BI)
+This repository documents my week-wise internship work based on the Excel input dataset and project guidelines PDF, focusing on data cleaning, EDA, and visualization using Power BI.
 
-####Objective : To clean and prepare the FEMA Excel dataset for visualization.
+-> Week 1 – Dataset Import & Data Cleaning [Power BI]
 
-####Work Done : 
-1 . Imported the Excel dataset into Power BI
+Objective:
+To clean and prepare the FEMA Excel dataset for visualization.
 
-2 . Cleaned unnecessary columns and missing values
+Work Done:
 
-3 . Converted Date-Time fields to Date format
+-> Imported the Excel dataset into Power BI
 
-4 . Standardized column names and categorical values
+-> Cleaned unnecessary columns and missing values
 
-####Outcome : Clean dataset ready for analysis and visualization.
+-> Converted Date-Time fields to Date format
 
-####Week 2 – Data Validation & Preparation (Python)
+-> Standardized column names and categorical values
 
-####Objective : To validate the FEMA dataset and ensure consistency.
+Outcome:
+Clean dataset ready for analysis and visualization.
 
-####Work Done:
+-> Week 2 – Data Validation & Preparation (Python)
 
-1 . Loaded the Excel dataset in Jupyter Notebook
+Objective:
+To validate the FEMA dataset and ensure consistency.
 
-2 . Checked data structure, data types, and missing values
+Work Done:
 
-3 . Verified data consistency with Power BI
+-> Loaded the Excel dataset in Jupyter Notebook
 
-####Outcome : Verified and reliable dataset for further work.
+-> Checked data structure, data types, and missing values
 
-####Week 3 – Exploratory Data Analysis (EDA) in Power BI
+-> Verified data consistency with Power BI
 
-####Objective : To perform Exploratory Data Analysis on the FEMA dataset using Power BI.
+Outcome:
+Verified and reliable dataset for further work.
 
-####Work Done:
+-> Week 3 – Exploratory Data Analysis (EDA) in Power BI
 
-Analyzed disaster declaration trends over time
+Objective:
+To perform Exploratory Data Analysis on the FEMA dataset using Power BI.
 
-Explored program-wise and state-wise distributions
+Work Done:
 
-Used basic visuals to identify patterns and variations
+-> Analyzed disaster declaration trends over time
 
-####Outcome : Clear understanding of data patterns to support dashboard creation.
+-> Explored program-wise and state-wise distributions
 
-####Week 4 – Live Data, Zendesk & ETL Concepts
+-> Used basic visuals to identify patterns and variations
 
-####Objective : To understand real-world data integration and workflows.
+Outcome:
+Clear understanding of data patterns to support dashboard creation.
 
-####Work Done:
+-> Week 4 – Live Data, Zendesk & ETL Concepts
 
-Learned to import live data using web URLs in Power BI
+Objective:
+To understand real-world data integration and workflows.
 
-Discussed Zendesk as an example of live data source
+Work Done:
 
-Studied ETL pipeline concepts (Extract, Transform, Load)
+-> Learned to import live data using web URLs in Power BI
 
-####Outcome : Understanding of enterprise-level data flow and dashboard integration.
+-> Discussed Zendesk as an example of live data source
+
+-> Studied ETL pipeline concepts (Extract, Transform, Load)
+
+Outcome:
+Understanding of enterprise-level data flow and dashboard integration.
