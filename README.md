@@ -1,15 +1,15 @@
-# Visualizing-US-Natural-Disaster-Declarations
+## Visualizing-US-Natural-Disaster-Declarations
 
-## Problem Statement
+### Problem Statement
 
 Natural disasters occur frequently across the United States, but understanding patterns, affected regions, and assistance programs is challenging due to the volume and complexity of raw data.
 This project aims to analyze FEMA disaster declaration data and present clear, actionable insights through effective dashboards.
 
-## Dataset Description [About Dataset]
+### Dataset Description [About Dataset]
 
 FEMA disaster declaration data covering U.S. disaster events, including dates, locations, incident types, and assistance program indicators. The dataset was cleaned and prepared for accurate analysis and visualization.
 
-### Key information in the dataset:
+#### Key information in the dataset:
 
 1 . Disaster declaration dates
 
@@ -21,7 +21,7 @@ FEMA disaster declaration data covering U.S. disaster events, including dates, l
 
 5 . Assistance program declarations
 
-### Program declaration indicators included:
+#### Program declaration indicators included:
 
 1 . Individual Assistance
 
@@ -31,13 +31,13 @@ FEMA disaster declaration data covering U.S. disaster events, including dates, l
 
 4 .Emergency / Other Programs
 
-## Key Performance Indicators [KPIs]
+### Key Performance Indicators [KPIs]
 
-## Dashboard Pages [No.of Pages Used For Visualization]
+### Dashboard Pages [No.of Pages Used For Visualization]
 
-## Key Insights [Insights,Trends,patterns From The Dashboard]
+### Key Insights [Insights,Trends,patterns From The Dashboard]
 
-## Recommendations [What Can Improve]
+### Recommendations [What Can Improve]
 
 1 . Strengthen preventive measures in highly affected regions
 
@@ -47,7 +47,7 @@ FEMA disaster declaration data covering U.S. disaster events, including dates, l
 
 4 . Improve data consistency in future records to support better analysis
 
-## Tools Used [In This Project]
+### Tools Used [In This Project]
 
 1 . Kaggle – Dataset sourcing and initial exploration
 
